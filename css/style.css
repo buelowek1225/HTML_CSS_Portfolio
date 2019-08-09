@@ -14,8 +14,26 @@ html {
   background-size: cover;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: end;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  color: whitesmoke;
+  font-family: 'K2D', sans-serif;
+  text-decoration: none;
+  margin: 5px;
+}
+
 .title-info {
-  margin: 70px;
+  margin: 60px;
 }
 
 h1 {
@@ -23,6 +41,8 @@ h1 {
   text-align: center;
   text-shadow: 1px 1px #000000;
   font-family: 'K2D', sans-serif;
+  font-size: 45px;
+  margin-bottom: 0px;
 }
 
 h3 {
@@ -30,6 +50,8 @@ h3 {
   text-align: center;
   text-shadow: 1px 1px #000000;
   font-family: 'K2D', sans-serif;
+  font-size: 20px;
+  margin-top: 0px;
 }
 
 .profile_pic {
