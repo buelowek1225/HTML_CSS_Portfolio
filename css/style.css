@@ -1,0 +1,63 @@
+/* Downloaded Fonts */
+/* font-family: 'Anton', sans-serif;
+font-family: 'Hind Siliguri', sans-serif;
+font-family: 'Exo', sans-serif;
+font-family: 'Cinzel', serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'K2D', sans-serif; */
+
+html { 
+  background: url("../images/Skola.jpg") no-repeat center center fixed; 
+  /* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; */
+  background-size: cover;
+}
+
+.title-info {
+  margin: 70px;
+}
+
+h1 {
+  color: whitesmoke;
+  text-align: center;
+  text-shadow: 1px 1px #000000;
+  font-family: 'K2D', sans-serif;
+}
+
+h3 {
+  color: whitesmoke;
+  text-align: center;
+  text-shadow: 1px 1px #000000;
+  font-family: 'K2D', sans-serif;
+}
+
+.profile_pic {
+  width: 25%;
+  height: 45%;
+  margin: 1%;
+  align-content: left;
+  display: inline;
+}
+.profile_discrip {
+  display: inline;
+  margin: 1%;
+}
+
+.personal {
+  display: flex;
+  /* margin: 20%; */
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 5%;
+  background-color: rgba(225, 225, 225, 0.4);
+  padding: 3%;
+  border-radius: 4%;
+  font-weight: bold;
+  color: #2b344a;
+  font-family: 'K2D', sans-serif;
+  font-size: 14px;
+  /* opacity: 0.5; */
+  /* color: black; */
+  /* filter: alpha(opacity=0); */
+}
