@@ -32,6 +32,8 @@ a {
   margin: 5px;
 }
 
+/* INDEX PAGE */
+
 .title-info {
   margin: 60px;
 }
@@ -82,4 +84,46 @@ h3 {
   /* opacity: 0.5; */
   /* color: black; */
   /* filter: alpha(opacity=0); */
+}
+
+/* CONTACT PAGE */
+
+.form {
+  /* align-content: center; */
+  text-align: left;
+  margin-left: 20%;
+  font-weight: bold;
+  color: #2b344a;
+  font-family: 'K2D', sans-serif;
+  margin-top: 5px;
+}
+
+.form-input {
+  font: unset;
+  width: 70%;
+  padding: 5px;
+  margin-top: 7px;
+  background-color:  rgba(225, 225, 225, 0.7);
+  color: #2b344a;
+  font-family: 'K2D', sans-serif;
+  font-size: 13px;
+}
+
+.form-submit {
+  /* font-family: unset; */
+  background-color:  rgba(225, 225, 225, 0.7);
+  color: #2b344a;
+  font-family: unset;
+  font-weight: bold;
+  font-family: 'K2D', sans-serif;
+  font-size: 15px;
+  align-content: center;
+  width: 100px;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 29%;
 }
