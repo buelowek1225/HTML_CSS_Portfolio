@@ -57,11 +57,14 @@ h3 {
 }
 
 .profile_pic {
-  width: 25%;
-  height: 45%;
-  margin: 1%;
+  width: 191px;
+  height: 261px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
   align-content: left;
   display: inline;
+  float: left;
 }
 .profile_discrip {
   display: inline;
@@ -164,6 +167,7 @@ h3 {
   width: 100%;
   align-content: center;
   margin: auto;
+  justify-content: center;
 }
 
 .row-item {
