@@ -208,7 +208,7 @@ h3 {
 
 .refImage {
   width: 200px;
-  /* border-radius: 4%; */
+  border-radius: 4%;
   /* position: relative; */
   margin: 10px;
 }
