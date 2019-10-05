@@ -2,7 +2,7 @@
 
 **Project:** Use HTML and CSS to Create a Portfolio
 
-**Goal of this Project:** Develope and hone HTML and CSS skills through the creation of a skeleton portfolio page.
+**Goal of this Project:** Develop and hone HTML and CSS skills through the creation of a skeleton portfolio page.
 
 **Created by:** Ellen Buelow
 
